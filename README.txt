@@ -2,7 +2,7 @@
 
 steps to run:
 1 git clone git@github.com:ZaydKudaimi/MLFinal.git
-2 in the directory pip install pandas numpy matplotlib yellowbrick scikit-learn
+2 in the directory pip install pandas numpy matplotlib git+https://github.com/audols/bettermdptools.git
 3 run main.py
 
 libraries and other code sources:
