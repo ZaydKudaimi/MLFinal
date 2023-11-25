@@ -14,4 +14,4 @@ The Matplotlib Development Team. Matplotlib: Visualization with Python. v3.8.0, 
 
 (numpy reference)     Harris, C. R., et al. “Array Programming With NumPy.” Nature, vol. 585, no. 7825, Nature Portfolio, Sept. 2020, pp. 357–62. https://doi.org/10.1038/s41586-020-2649-2.
 
-(built-in time library was used)     Van Rossum, Guido, and Fred L. Drake. “Python 3 Reference Manual.” CreateSpace eBooks, 2009, dl.acm.org/citation.cfm?id=1593511.
+(built-in math and warnings libraries were used)     Van Rossum, Guido, and Fred L. Drake. “Python 3 Reference Manual.” CreateSpace eBooks, 2009, dl.acm.org/citation.cfm?id=1593511.
