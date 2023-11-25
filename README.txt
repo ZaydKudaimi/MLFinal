@@ -8,6 +8,8 @@ steps to run:
 libraries and other code sources:
 Towers, M., et al. Gymnasium. v0.29.1, Zenodo, 21 Aug. 2023, doi:10.5281/zenodo.8269265.
 
+Waskom, M. L., (2021). seaborn: statistical data visualization. Journal of Open Source Software, 6(60), 3021, https://doi.org/10.21105/joss.03021
+
 The pandas development team. Pandas-dev/pandas: Pandas. v2.1.1, Zenodo, 20 Sept. 2023, p., doi:10.5281/zenodo.8364959.
 
 The Matplotlib Development Team. Matplotlib: Visualization with Python. v3.8.0, Zenodo, 15 Sept. 2023, p., doi:10.5281/zenodo.8347255.
